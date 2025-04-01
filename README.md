@@ -4,7 +4,7 @@
 This project is an **IMDb Movie Recommendation System** that suggests movies based on their textual descriptions using **Natural Language Processing (NLP)** and **Machine Learning** techniques.  
 
 ##  Dataset Collection  
-- ** Tools Used:** Selenium, Pandas  
+- **Tools Used:** Selenium, Pandas  
 - **Approach:**  
   - Scraped IMDb movie data based on genres.  
   - Extracted movie details using **tag names** and **class names** in Selenium.  
