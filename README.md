@@ -4,11 +4,11 @@
 This project is an **IMDb Movie Recommendation System** that suggests movies based on their textual descriptions using **Natural Language Processing (NLP)** and **Machine Learning** techniques. 
 
 ## Libraries used
-<a href="https://selenium.dev/documentation/" target="_blank">Selenium</a><br>
-<a href="https://pandas.pydata.org/docs/" target="_blank">Pandas</a><br>
-<a href="https://numpy.org/doc/stable/" target="_blank">NumPy</a><br>
-<a href="https://www.nltk.org/" target="_blank">NLTK</a><br>
-<a href="https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html" target="_blank">TF-IDF Vectorizer (Scikit-learn)</a><br>
+<a href="https://selenium.dev/documentation/" target="_blank"><b>Selenium</b></a><br>
+<a href="https://pandas.pydata.org/docs/" target="_blank"><b>Pandas</b></a><br>
+<a href="https://numpy.org/doc/stable/" target="_blank"><b>NumPy</b></a><br>
+<a href="https://www.nltk.org/" target="_blank"><b>NLTK</b></a><br>
+<a href="https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html" target="_blank"><b>TF-IDF Vectorizer (Scikit-learn)</b></a><br>
 
 ##  Dataset Collection  
 - **Tools Used:** Selenium, Pandas  
