@@ -1,16 +1,14 @@
 #  IMDb Movie Recommendation System  
 
 ##  Overview  
-This project is an **IMDb Movie Recommendation System** that suggests movies based on their textual descriptions using **Natural Language Processing (NLP)** and **Machine Librariesused** techniques. 
-<a href="https://selenium.dev/documentation/" target="_blank">Selenium Documentation</a><br>
-<a href="https://pandas.pydata.org/docs/" target="_blank">Pandas Documentation</a><br>
-<a href="https://numpy.org/doc/stable/" target="_blank">NumPy Documentation</a><br>
-<a href="https://www.nltk.org/" target="_blank">NLTK Documentation</a><br>
-<a href="https://spacy.io/usage" target="_blank">SpaCy Documentation</a><br>
-<a href="https://scikit-learn.org/stable/" target="_blank">Scikit-learn Documentation</a><br>
-<a href="https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html" target="_blank">TF-IDF Vectorizer (Scikit-learn)</a><br>
-<a href="https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.CountVectorizer.html" target="_blank">Count Vectorizer (Scikit-learn)</a><br>
+This project is an **IMDb Movie Recommendation System** that suggests movies based on their textual descriptions using **Natural Language Processing (NLP)** and **Machine Learning** techniques. 
 
+## Libraries used
+<a href="https://selenium.dev/documentation/" target="_blank">Selenium</a><br>
+<a href="https://pandas.pydata.org/docs/" target="_blank">Pandas</a><br>
+<a href="https://numpy.org/doc/stable/" target="_blank">NumPy</a><br>
+<a href="https://www.nltk.org/" target="_blank">NLTK</a><br>
+<a href="https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html" target="_blank">TF-IDF Vectorizer (Scikit-learn)</a><br>
 
 ##  Dataset Collection  
 - **Tools Used:** Selenium, Pandas  
